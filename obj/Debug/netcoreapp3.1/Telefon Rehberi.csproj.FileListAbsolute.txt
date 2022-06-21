@@ -1,0 +1,42 @@
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.exe
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.deps.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.dev.json
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.AssemblyReference.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfo.cs
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Users\seobig\source\repos\Odev1\Telefon Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.genruntimeconfig.cache
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.exe
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.deps.json
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.json
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.dev.json
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Derslerim\denemetelefon\Phone-Book\bin\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.AssemblyReference.cache
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfo.cs
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Derslerim\denemetelefon\Phone-Book\obj\Debug\netcoreapp3.1\Telefon Rehberi.genruntimeconfig.cache
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.exe
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.deps.json
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.json
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.runtimeconfig.dev.json
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Derslerim\Telefon-Rehberi\bin\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.AssemblyReference.cache
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfoInputs.cache
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.AssemblyInfo.cs
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.csproj.CoreCompileInputs.cache
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.dll
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.pdb
+C:\Derslerim\Telefon-Rehberi\obj\Debug\netcoreapp3.1\Telefon Rehberi.genruntimeconfig.cache
