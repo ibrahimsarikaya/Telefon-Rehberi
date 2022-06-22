@@ -9,8 +9,8 @@ namespace Telefon_Rehberi
     {
         static void Main(string[] args)
         {
-            RehberBusiness rehberBusiness = new RehberBusiness();
-            rehberBusiness.Sorgu();
+            AnaRehber anaRehber = new AnaRehber();
+            anaRehber.Sorgu();
         }
     }
 
