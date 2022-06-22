@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Telefon_Rehberi
 {
-    public class RehberBusiness
+    public class AnaRehber
     {
         
         List<Rehber> rehber = new List<Rehber>
@@ -165,25 +165,25 @@ namespace Telefon_Rehberi
         }
         public void Sorgu()
         {
-            RehberBusiness rehberBusiness = new RehberBusiness();
-            rehberBusiness.EkranaYazdirma();
+            AnaRehber anaRehber = new AnaRehber();
+            anaRehber.EkranaYazdirma();
             int num = Convert.ToInt32(Console.ReadLine());
             switch (num)     
             {
                 case 1:
-                    rehberBusiness.Add();
+                    anaRehber.Add();
                     break;
                 case 2:
-                    rehberBusiness.Remove();
+                    anaRehber.Remove();
                     break;
                 case 3:
-                    rehberBusiness.Update();
+                    anaRehber.Update();
                     break;
                  case 4:
-                    rehberBusiness.List();
+                    anaRehber.List();
                     break;
                  case 5:
-                    rehberBusiness.Search();
+                    anaRehber.Search();
                      break; 
                 default:
                      break;
